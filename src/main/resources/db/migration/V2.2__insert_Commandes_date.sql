@@ -1,0 +1,12 @@
+insert into Commandes(numcmdid, clientid, datecmd, etatcmd) values (1, 2, '2021-10-13', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (2, 3, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (3, 3, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (4, 1, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (5, 1, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (6, 3, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (7, 2, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (8, 1, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (9, 1, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (10, 2, '2021-10-22', 'bon etat');
+insert into commandes (numcmdid, clientid, datecmd, etatcmd) values (11, 3, '2021-10-22', 'bon etat');
+insert into Commandes(numcmdid, clientid, datecmd, etatcmd) values (12, 2, '2021-10-13', 'bon etat');

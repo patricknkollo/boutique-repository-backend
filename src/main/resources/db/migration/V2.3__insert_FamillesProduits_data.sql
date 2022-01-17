@@ -1,0 +1,11 @@
+insert into Famille(famille_produitid, intitule) values (1, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (2, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (3, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (4, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (5, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (6, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (7, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (8, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (9, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (10, 'titres actuel');
+insert into Famille(famille_produitid, intitule) values (11, 'titres actuel');
