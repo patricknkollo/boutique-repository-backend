@@ -42,7 +42,7 @@ public class DetailsProduitController {
 		return detailProduit;
 	}
 
-	@RequestMapping(path = "/delete/{thisid}", method = RequestMethod.POST)
+	@RequestMapping(path = "/delete/{thisid}", method = RequestMethod.DELETE)
 	public void removeDetailsProduitsWithId(@PathVariable("thisid") Long id) {
 		service.removeDetailsProduitsWithId(id);
 	}
